@@ -4,6 +4,7 @@
 }
 
 .todo {
+  margin-top: 10px;
   align-items: center;
   display: flex;
   font-size: 18px;
